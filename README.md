@@ -2,9 +2,9 @@
 
 This project utilizes the Llama 2 Large Language Model (LLM) to generate blog content based on user input. It features a simple web interface built with Streamlit and uses LangChain for LLM integration.
 
-![Streamlit App Screenshot](images/app_screenshot.png)
+![Streamlit App Screenshot](images/image.png)
 
-![Streamlit App Screenshot](images/app_screenshot.png)
+
 
 ## Features
 
